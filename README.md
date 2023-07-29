@@ -69,7 +69,7 @@ python manage.py createsuperuser
 ```
 7. Access the Application
 
-- Open your web browser and go to `http://localhost:8000/` to access the application.
+- Open your web browser and go to `http://localhost:8000/onlinecourse` to access the application.
 - Use the superuser account to log in to the admin interface at `http://localhost:8000/admin/`.
 
 ## Usage Instructions
